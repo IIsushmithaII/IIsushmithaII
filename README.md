@@ -1,7 +1,9 @@
-### Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sushmitha S !
+<a href="https://github.com/IIsushmithaII"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
+<a href="https://github.com/IIsushmithaII"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Github follow"/></a>
 
 #### Welcome to my GitHub profile<img src="https://i.gifer.com/origin/1b/1bd0beed94cd20963e877d1b2114e60f_w200.webp" width="70px">
--👩 I’m Sushmitha S, a student, Developer, who is going towards web development
+-👩 I’m Sushmitha, a student, Developer, who is going towards web development
 <br/>
 -✨ I’m a Self-learner, coding enthusiastic, I’m passionate to learn new things 
 <br/>
@@ -33,6 +35,8 @@
 <br/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=IIsushmithaII" alt="hedythedev"/> 
+<a href="https://github.com/IIsushmithaII"><img src="https://img.shields.io/github/stars/IIsushmithaII?color=blue&style=flat-box" alt="Github follow"/></a>
+
 <details>
      <br/>
 <summary>:zap: GitHub Stats</summary>
@@ -42,6 +46,7 @@
 </details>
 
 ### [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IIsushmithaII&repo=Sushmitha-S-Portfolio&show_icons=true&theme=radical)](https://github.com/IIsushmithaII/Sushmitha-S-Portfolio)
+
 
 
 <!--
