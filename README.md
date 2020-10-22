@@ -6,7 +6,7 @@
 #### Welcome to my GitHub profile 🥰<img src="https://i.gifer.com/origin/1b/1bd0beed94cd20963e877d1b2114e60f_w200.webp" width="70px">
 -👩‍💻 I’m Sushmitha, a student, Developer, who is going towards web development
 <br/>
--✨ I’m a Self-learner, coding enthusiastic, I’m passionate to learn new things 
+-✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 <br/>
 -🌱 I’m currently learning React 
 <br/>
@@ -45,8 +45,20 @@
  <br/>
 
 </details>
+<details>
+     <br/>
+<summary>⚡ Pined Repositories</summary>
+     
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Sushmitha-S-Portfolio&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/Sushmitha-S-Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=sushmithas99&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/sushmithas99)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Consumer_Complaints_Analysis&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/Consumer_Complaints_Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=COVID19_Data_Analysis&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/COVID19_Data_Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Image-classification-using-CNN-with-CIFAR-10&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/Image-classification-using-CNN-with-CIFAR-10)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Car-Rental-System&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/Car-Rental-System)
 
-### [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Sushmitha-S-Portfolio&show_icons=true&theme=radical)](https://github.com/sushmithas99/Sushmitha-S-Portfolio)
+ <br/>
+
+</details>
 
 
 <!--
