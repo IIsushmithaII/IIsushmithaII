@@ -1,9 +1,10 @@
-### Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sushmitha S !
-<a href="https://github.com/IIsushmithaII"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
-<a href="https://github.com/IIsushmithaII"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Github follow"/></a>
+### Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sushmitha S !
+<a href="www.linkedin.com/in/sushmithas99"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
+<a href="https://github.com/IIsushmithaII"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
 
-#### Welcome to my GitHub profile<img src="https://i.gifer.com/origin/1b/1bd0beed94cd20963e877d1b2114e60f_w200.webp" width="70px">
--👩 I’m Sushmitha, a student, Developer, who is going towards web development
+
+#### Welcome to my GitHub profile 🥰<img src="https://i.gifer.com/origin/1b/1bd0beed94cd20963e877d1b2114e60f_w200.webp" width="70px">
+-👩‍💻 I’m Sushmitha, a student, Developer, who is going towards web development
 <br/>
 -✨ I’m a Self-learner, coding enthusiastic, I’m passionate to learn new things 
 <br/>
@@ -40,13 +41,12 @@
 <details>
      <br/>
 <summary>:zap: GitHub Stats</summary>
-<center><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IIsushmithaII&show_icons=true&theme=radical" /></center>
+<center><img align="left" alt="sushmitha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IIsushmithaII&show_icons=true&theme=radical" /></center>
  <br/>
 
 </details>
 
 ### [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IIsushmithaII&repo=Sushmitha-S-Portfolio&show_icons=true&theme=radical)](https://github.com/IIsushmithaII/Sushmitha-S-Portfolio)
-
 
 
 <!--
