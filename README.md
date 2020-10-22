@@ -38,13 +38,7 @@
 <img src="https://komarev.com/ghpvc/?username=sushmithas99" alt="hedythedev"/> 
 <a href="https://github.com/sushmithas99"><img src="https://img.shields.io/github/stars/sushmithas99?color=blue&style=flat-box" alt="Github follow"/></a>
 
-<details>
-     <br/>
-<summary>:zap: GitHub Stats</summary>
-<center><img align="left" alt="sushmitha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sushmithas99&show_icons=true&theme=radical" /></center>
- <br/>
 
-</details>
 <br/>
 <details>
      <br/>
@@ -60,7 +54,14 @@
  <br/>
 
 </details>
+<br/>
+<details>
+     <br/>
+<summary>:zap: GitHub Stats</summary>
+<center><img align="left" alt="sushmitha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sushmithas99&show_icons=true&theme=radical" /></center>
+ <br/>
 
+</details>
 
 <!--
 **sushmithas99/sushmithas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
