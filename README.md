@@ -10,7 +10,7 @@
 <br/>
 -🌱 I’m currently learning React 
 <br/>
--⚡ Fun Fact: Love to draw, listen music.
+-⚡ Fun Fact: Love to draw, listening to music.
 
 ## My interests 💙
 * Web development
