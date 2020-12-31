@@ -3,7 +3,7 @@
 <a href="https://github.com/sushmithas99"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
 
 
-#### Welcome to my GitHub profile 🥰<img src="https://i.gifer.com/origin/1b/1bd0beed94cd20963e877d1b2114e60f_w200.webp" width="70px">
+#### Welcome to my GitHub profile 🥰
 -👩‍💻 I’m Sushmitha, a student, Developer, who is going towards web development
 <br/>
 -✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
