@@ -4,15 +4,16 @@
 
 
 #### Welcome to my GitHub profile 🥰
--👩‍💻 I’m Sushmitha, a student, Developer, who is going towards web development
+-👩‍💻 I’m Sushmitha, a student, Tester, Developer, who is going towards Testing 
 <br/>
 -✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 <br/>
--🌱 I’m currently learning React 
+-🌱 I’m currently focusing more on Testing  
 <br/>
 -⚡ Fun Fact: Love to draw, listening music.
 
 ## My interests 💙
+* Testing 
 * Web development
 * UI/UX design 
 * Java
