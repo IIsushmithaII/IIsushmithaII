@@ -51,14 +51,7 @@
  <br/>
 
 </details>
-<br/>
-<details>
-     <br/>
-<summary>:zap: GitHub Stats</summary>
-<center><img align="left" alt="sushmitha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sushmithas99&show_icons=true&theme=radical" /></center>
- <br/>
 
-</details>
 
 <!--
 **sushmithas99/sushmithas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
