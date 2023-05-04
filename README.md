@@ -4,13 +4,13 @@
 
 
 #### Welcome to my GitHub profile 🥰
--👩‍💻 I’m Sushmitha, a student, Tester, Developer, who is going towards Testing 
+-👩‍💻 I’m Sushmitha, Tester, who is going towards Testing to provide defect free/ quality product
 <br/>
 -✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 <br/>
 -🌱 I’m currently focusing more on Testing  
 <br/>
--⚡ Fun Fact: Love to draw, listening music.
+-⚡ Fun Fact: Love to draw, listening music, crafting.
 
 ## My interests 💙
 * Testing 
@@ -22,7 +22,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://simpleicons.org/icons/java.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
