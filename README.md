@@ -41,7 +41,7 @@
      <br/>
 <summary>⚡ Pined Repositories</summary>
      
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Sushmitha-S-Portfolio&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/Sushmitha-S-Portfolio)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=sushmithas99&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/sushmithas99)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Consumer_Complaints_Analysis&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/Consumer_Complaints_Analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=COVID19_Data_Analysis&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/COVID19_Data_Analysis)
